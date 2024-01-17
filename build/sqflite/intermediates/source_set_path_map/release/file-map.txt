@@ -1,0 +1,12 @@
+com.tekartik.sqflite-jetified-window-1.0.0-beta04-0 /home/shinji/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.tekartik.sqflite-jetified-annotation-experimental-1.1.0-1 /home/shinji/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.tekartik.sqflite-core-1.6.0-2 /home/shinji/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.tekartik.sqflite-jetified-window-java-1.0.0-beta04-3 /home/shinji/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.tekartik.sqflite-main-4 /home/shinji/.pub-cache/hosted/pub.dev/sqflite-2.3.0/android/src/main/res
+com.tekartik.sqflite-release-5 /home/shinji/.pub-cache/hosted/pub.dev/sqflite-2.3.0/android/src/release/res
+com.tekartik.sqflite-pngs-6 /home/shinji/Documents/Flutter/aispeak/build/sqflite/generated/res/pngs/release
+com.tekartik.sqflite-resValues-7 /home/shinji/Documents/Flutter/aispeak/build/sqflite/generated/res/resValues/release
+com.tekartik.sqflite-rs-8 /home/shinji/Documents/Flutter/aispeak/build/sqflite/generated/res/rs/release
+com.tekartik.sqflite-mergeReleaseResources-9 /home/shinji/Documents/Flutter/aispeak/build/sqflite/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.tekartik.sqflite-mergeReleaseResources-10 /home/shinji/Documents/Flutter/aispeak/build/sqflite/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.tekartik.sqflite-merged_res-11 /home/shinji/Documents/Flutter/aispeak/build/sqflite/intermediates/merged_res/release

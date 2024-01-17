@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/home/shinji/Documents/Flutter/aispeak/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.3.0"
+    buildFolder="/home/shinji/Documents/Flutter/aispeak/build/app"
+    bootClassPath="/home/shinji/Android/platforms/android-33/android.jar:/home/shinji/Android/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
